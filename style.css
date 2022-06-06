@@ -24,6 +24,7 @@ body{
     color: yellow
 }
 
+
 .image{
     height: 250px;
     width: 250px;
@@ -47,4 +48,15 @@ main{
 }
 .title{
     text-decoration: underline;
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+section {
+    width: 50%;
 }
