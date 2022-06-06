@@ -78,3 +78,26 @@ section {
     padding: 10px;
     line-height: 25px;
 }
+
+
+.footer{
+    background-color: brown;
+    color: yellow;
+}
+
+.image2{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;  
+}
+.image3{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+}
