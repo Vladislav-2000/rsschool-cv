@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth; 
+}
+body{
+    background-color: sandybrown;
+    font-family: 'Roboto', sans-serif;
+    color: maroon;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.header{
+    background-color: brown;
+    margin: auto;
+    padding: 5px;
+}
+.nav-list {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-link{
+    color: yellow
+}
