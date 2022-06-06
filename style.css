@@ -23,3 +23,28 @@ body{
 .nav-link{
     color: yellow
 }
+
+.image{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+main{
+    font-weight: bold;
+    font-style: oblique;
+}
+.name{
+    margin: 10px;
+    text-decoration: underline;
+}
+.status{
+    font-size: 25px;
+    margin: 10px;
+}
+#ContactInformation{
+    padding: 10px;
+    line-height: 25px;
+}
+.title{
+    text-decoration: underline;
+}
