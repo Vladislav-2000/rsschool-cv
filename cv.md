@@ -70,3 +70,10 @@ I have no solved problems yet. If you can provide this problem as a sample code,
 
 ******
 
+## Languages:
+
+  * Russian - Native
+  * Belarussian - Native
+  * English - Basics
+  
+******
