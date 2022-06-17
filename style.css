@@ -2,16 +2,12 @@ html{
     scroll-behavior: smooth; 
 }
 body{
+    background-color: sandybrown;
     font-family: 'Roboto', sans-serif;
     color: maroon;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-.wrapper {
-    background-color: sandybrown;
-    min-height: 100%;
-    overflow: hidden;
 }
 ._container {
     max-width: 1440px;
