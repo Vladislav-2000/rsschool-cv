@@ -64,3 +64,10 @@ I have no solved problems yet. If you can provide this problem as a sample code,
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ******
+## Languages:
+
+  * Russian - Native
+  * Belarussian - Native
+  * English - Basics
+  
+******
