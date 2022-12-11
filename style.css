@@ -1,0 +1,112 @@
+html{
+    scroll-behavior: smooth; 
+}
+body{
+    background-color: sandybrown;
+    font-family: 'Roboto', sans-serif;
+    color: maroon;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.header{
+    background-color: brown;
+    margin: auto;
+    padding: 5px;
+}
+.nav-list {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-link{
+    color: yellow
+}
+
+.image{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+main{
+    font-weight: bold;
+    font-style: oblique;;
+}
+.name{
+    margin: 10px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.status{
+    font-size: 25px;
+    font-style: oblique;
+    margin: 10px;
+}
+#ContactInformation{
+    padding: 10px;
+    line-height: 25px;;
+}
+.title{
+    text-decoration: underline;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+section {
+    width: 50%;
+}
+.title2{
+    text-decoration: underline;
+}
+#Skills{
+    padding: 10px;
+    line-height: 25px;
+}
+.title3{
+    text-decoration: underline;
+}
+.title4{
+    text-decoration: underline;
+}
+#Courses{
+    padding: 10px;
+    line-height: 25px;
+}
+.title5{
+    text-decoration: underline;
+}
+#Languages{
+    padding: 10px;
+    line-height: 25px;
+}
+.title6{
+    text-decoration: underline;
+}
+.footer{
+    background-color: brown;
+    color: yellow;
+}
+.container2{
+    color: black;
+}
+
+.image2{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;  
+}
+.image3{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+}
