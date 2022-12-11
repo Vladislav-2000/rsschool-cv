@@ -16,3 +16,16 @@ E-mail: vlad.yubar@yandex.ru
 Telegram: @Vlados430807
 
 ******
+## Briefly About Myself:
+
+I am from the city of Svetlogorsk, Gomel region, Republic of Belarus. I am 21 years old. I finished 9 classes of secondary school No.9, after which I entered college at the chemistry department. After graduating from college, I got to work at SvetlogorskKhimvolokno.
+
+After I worked at this enterprise for 2 and a half months, I was drafted into the ranks of the Armed Forces of the Republic of Belarus.After serving my due date, I returned home.
+
+In the army, when the time was coming to return home, the thought came to me: "Should I try to enter IT?". My uncle supported me in this endeavor and enrolled me in the courses of the IT Academy. She did not meet my expectations. I should have received marks on the results of the courses I took ("Object Oriented Programming Fundamentals" and "Java Basic Course"), but they were never presented to me. All my efforts were in vain.
+
+After all this chaos, my uncle and I decided to enroll in The Rolling Scopes School, for a start, for the Js / Front-End preparatory course. Stage 0.
+
+I believe, that The Rolling Scopes School and my ability to learn and to gain new skills will lead me through this path of becoming a proficient Front-End Developer.
+
+******
