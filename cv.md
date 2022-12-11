@@ -29,3 +29,11 @@ After all this chaos, my uncle and I decided to enroll in The Rolling Scopes Sch
 I believe, that The Rolling Scopes School and my ability to learn and to gain new skills will lead me through this path of becoming a proficient Front-End Developer.
 
 ******
+## Skills:
+
+  * HTML5 and CSS3 - Basics
+  * JavaScript - Basics
+  * Git, Github - Basics
+  * VSCode - Basics
+
+******
