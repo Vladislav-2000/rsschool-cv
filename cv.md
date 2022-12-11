@@ -37,3 +37,21 @@ I believe, that The Rolling Scopes School and my ability to learn and to gain ne
   * VSCode - Basics
 
 ******
+## Code Example:
+
+I have no solved problems yet. If you can provide this problem as a sample code, then I provide it:
+
+  ```Codewars
+  const assert = require("chai").assert;
+
+  describe("Multiply", () => {
+    it("fixed tests", () => {
+      assert.strictEqual(multiply(1,1), 1);
+      assert.strictEqual(multiply(2,1), 2);
+      assert.strictEqual(multiply(2,2), 4);
+      assert.strictEqual(multiply(3,5), 15);   
+    });
+  });
+
+  ```
+******
