@@ -55,3 +55,12 @@ I have no solved problems yet. If you can provide this problem as a sample code,
 
   ```
 ******
+## Courses:
+
+  * HTML for beginners on the ru.code-basics.com
+  * CSS for beginners on the ru.code-basics.com
+  * JavaScript for beginners on the ru.code-basics.com
+  * JavaScript Manual on learnjavascript.ru (in progress)
+  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+******
