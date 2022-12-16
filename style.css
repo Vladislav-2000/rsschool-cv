@@ -1,6 +1,10 @@
 html{
     scroll-behavior: smooth; 
 }
+._container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
 body{
     background-color: sandybrown;
     font-family: 'Roboto', sans-serif;
